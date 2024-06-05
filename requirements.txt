@@ -1,0 +1,8 @@
+torch
+sentence-transformers
+openai
+transformers
+ollama
+requests
+beautifulsoup4
+scrapy
