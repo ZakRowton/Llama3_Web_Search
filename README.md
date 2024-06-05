@@ -1,4 +1,4 @@
-# Llama3_Web_Search
+# Llama3 Web Search
 Using Llama3 to search the web and respond to information requestion inside the search result links.
 
 # Instructions
